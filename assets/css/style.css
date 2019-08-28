@@ -1,2 +1,4 @@
-.container-fluid {
-  background-color: aqua; }
+.block, .container-fluid {
+  background-color: aqua;
+  border: 2px solid black;
+  text-align: center; }

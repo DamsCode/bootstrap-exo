@@ -1,4 +1,9 @@
+.margintop {
+  margin-top: 10px; }
+
 .block, .container-fluid {
   background-color: aqua;
-  border: 2px solid black;
   text-align: center; }
+
+.block-inline {
+  display: inline; }

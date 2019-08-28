@@ -1,7 +1,14 @@
+.margintop {
+    margin-top: 10px;
+}
+
 .block {
     background-color: aqua;
-    border: 2px solid black;
     text-align: center;
+}
+
+.block-inline {
+    display: inline;
 }
 
 .container-fluid {
